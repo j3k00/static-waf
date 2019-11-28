@@ -31,7 +31,7 @@ Python version | 3.6.9
 GCC version | 7.4.0
 
 ## Setup the environment
-In the following paraghaps there are all the instructions to setup the environment:
+In the following paragraphs there are all the instructions to setup the environment:
 1. Download and install OS
 2. Install Modsecurity
 3. Set the OWASP CRS
