@@ -145,6 +145,8 @@ $ sudo sed -i 's/block/deny/' REQUEST-942-APPLICATION-ATTACK-SQLI.conf
 $ sudo sed -i 's/block/deny/' REQUEST-943-APPLICATION-ATTACK-SESSION-FIXATION.conf
 ```
 
+The [paranoia level](https://coreruleset.org/faq/) has the default value (Pranoia Level 1). If you need to change it take a look to `crs-setup.conf`
+
 ### Enjoy
 Link to the unicode.mapping file
 ```sh
